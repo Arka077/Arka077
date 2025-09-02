@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/8Km9tLL.gif" width="400" alt="AI Animation">
 </p>
 
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Arka077</h1>
+<h1 align="center">Hi there, I'm Arka077</h1>
 
 <p align="center">
   <b>AI & ML Enthusiast</b> <br>
