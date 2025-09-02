@@ -59,7 +59,3 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arka077&theme=radical" alt="Streak Stats"/>
 </p>
-
-<p align="center">
-  <img src="https://github.com/Arka077/Arka077/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
