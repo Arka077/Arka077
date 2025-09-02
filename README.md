@@ -18,14 +18,11 @@
 
 ---
 
-## 🚀 My AI/ML Projects
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250" alt="AI Project Animation">
 </p>
 
-- [**Project Name 1**](https://github.com/Arka077/project1): Brief description of your AI/ML project.
-- [**Project Name 2**](https://github.com/Arka077/project2): Brief description of your project.
 
 ---
 
