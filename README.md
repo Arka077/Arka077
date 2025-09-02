@@ -1,8 +1,4 @@
 <!-- Profile banner (you can replace the URL with your own image) -->
-<p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.gif" width="400" alt="AI Animation">
-</p>
-
 <h1 align="center">Hi there, I'm Arka077</h1>
 
 <p align="center">
