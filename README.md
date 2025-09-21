@@ -1,5 +1,5 @@
 <!-- Profile banner (you can replace the URL with your own image) -->
-<h1 align="center">Hi there, I'm Arka077</h1>
+<h1 align="center">Hi there, I'm Arka</h1>
 
 <p align="center">
   <b>AI & ML Enthusiast</b> <br>
