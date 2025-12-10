@@ -50,9 +50,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arka077&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arka077&theme=radical" alt="Streak Stats"/>
-</p>
